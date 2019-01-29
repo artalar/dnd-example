@@ -1,0 +1,13 @@
+#showcaseContainer {
+  display: flex;
+  align-items: center;
+}
+
+#showcasePreview,
+#showcaseControl {
+  margin: 2rem;
+}
+
+#showcasePreview.loading {
+  opacity: 0.4;
+}
